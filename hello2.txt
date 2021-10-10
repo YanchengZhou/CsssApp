@@ -1,15 +1,9 @@
 sdfasdfasdf
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 
 System.out.println("Wonder dog)
 =======
 git add. 
->>>>>>> c66fba3d4809f5f269ad1f2f2c60d9a470159382
-=======
 
-
-
-
-jlajfljdsljlfkasjf
->>>>>>> YC
